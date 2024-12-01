@@ -2,16 +2,16 @@
 
 Этот проект содержит два скрипта для обучения моделей обнаружения объектов:
 
-1. **YOLO Training Script (`train_yolo.py`)**: Обучение модели YOLO с интеграцией Comet.ml для отслеживания экспериментов.
-2. **Transformer-Based Detection Training Script (`train_object_detection.py`)**: Обучение модели обнаружения объектов на основе трансформеров с использованием библиотеки Hugging Face Transformers.
+1. **YOLO Training Script (`trainyolo.py`)**: Обучение модели YOLO с интеграцией Comet.ml для отслеживания экспериментов.
+2. **Transformer-Based Detection Training Script (`traindetr.py`)**: Обучение модели обнаружения объектов на основе трансформеров с использованием библиотеки Hugging Face Transformers.
 
 ## Содержание
 
 - [Требования](#требования)
 - [Установка](#установка)
 - [Использование](#использование)
-  - [1. Скрипт Обучения YOLO (`trainyolo.py`)](#1-скрипт-обучения-yolo-train_yolopy)
-  - [2. Скрипт Обучения на Основе Трансформеров (`traindetr.py`)](#2-скрипт-обучения-на-основе-трансформеров-train_object_detectionpy)
+  - [1. Скрипт Обучения YOLO (`trainyolo.py`)](#1-скрипт-обучения-yolo-trainyolopy)
+  - [2. Скрипт Обучения на Основе Трансформеров (`traindetr.py`)](#2-скрипт-обучения-на-основе-трансформеров-traindetrpy)
 
 
 ## Требования
